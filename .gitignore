@@ -1,0 +1,24 @@
+# Médias lourds : jamais dans le repo
+*.mp4
+*.wav
+*.mp3
+*.m4a
+*.mov
+episodes/*/audio/
+episodes/*/visuals/*.mp4
+
+# Poids de modèles (Kokoro)
+*.pth
+*.onnx
+models/
+
+# Secrets
+.env
+*.env
+client_secret*.json
+token*.json
+
+# Python
+__pycache__/
+.venv/
+*.pyc

@@ -1,0 +1,19 @@
+{
+  "episodes": [
+    {
+      "slug": "free-mobile",
+      "titre_travail": "Comment Free a cassé le marché du mobile",
+      "entreprise": "Free Mobile (groupe Iliad)",
+      "angle": "Comment un quatrième opérateur a fait exploser les prix du mobile en France en 2012, et ce que ça a changé",
+      "structure": null,
+      "statut": "recherche",
+      "revisions_script": 0,
+      "dernier_verdict": null,
+      "blocage": null,
+      "retours_utilisateur": [],
+      "youtube_url": null,
+      "cree_le": "2026-10-06",
+      "maj_le": "2026-10-06"
+    }
+  ]
+}
