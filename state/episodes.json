@@ -2,18 +2,31 @@
   "episodes": [
     {
       "slug": "free-mobile",
-      "titre_travail": "Comment Free a cassé le marché du mobile",
+      "titre_travail": "Free Mobile, 2012 : casser quoi, au juste ?",
       "entreprise": "Free Mobile (groupe Iliad)",
       "angle": "Comment un quatrième opérateur a fait exploser les prix du mobile en France en 2012, et ce que ça a changé",
-      "structure": null,
-      "statut": "recherche",
-      "revisions_script": 0,
-      "dernier_verdict": null,
-      "blocage": null,
+      "structure": {
+        "type": "enquête autour d'une question, dossier à pièces numérotées (à charge et à décharge), non chronologique",
+        "accroche": "scène chiffrée sous compteur (10 janvier 2012, 8 h 30, riposte en six jours) + question à trois sens + teaser de la dernière pièce",
+        "sequence": [
+          "six jours de janvier 2012",
+          "rembobinage : entente sanctionnée en 2005, riposte lancée en 2011",
+          "pièce 1 : la facture",
+          "pièce 2 : ce que les historiques ont perdu",
+          "contre-expertise : projection contre séries constatées",
+          "pièce 3 : qui a gagné ?",
+          "dernière pièce : du perturbateur au co-acheteur (2013-2026)",
+          "verdict en trois lignes et ouverture"
+        ]
+      },
+      "statut": "bloque",
+      "revisions_script": 2,
+      "dernier_verdict": "KO",
+      "blocage": "Après 2 allers-retours scénariste ↔ fact-check (36 → 21 → 6 corrections), le script v3 reste KO : 6 corrections mineures (3 juridiques, 2 factuelles, 1 étiquette de frise), rédigées et testées dans review.md. Décision de l'utilisateur attendue : 3e révision exceptionnelle ou non.",
       "retours_utilisateur": [],
       "youtube_url": null,
       "cree_le": "2026-10-06",
-      "maj_le": "2026-10-06"
+      "maj_le": "2026-10-07"
     }
   ]
 }
