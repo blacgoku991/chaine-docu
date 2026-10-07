@@ -29,6 +29,7 @@ Tu es le **scénariste** de la chaîne (voir `CLAUDE.md`). Tu écris un document
 - Interprétation ≠ fait : signale-la (« on peut y voir », « selon ses détracteurs »). Une causalité (« X a provoqué Y ») n'est affirmée que si une source l'affirme ; sinon, présente-la comme une analyse attribuée.
 - Citations : uniquement celles de « Citations vérifiées » dans `research.md`, mot pour mot.
 - **Jamais** de conseil financier. **Jamais** d'accusation non sourcée. Les procédures judiciaires avec leur issue exacte.
+- Pas d'insinuation par juxtaposition : n'enchaîne pas deux faits (ou un fait et un visuel) de façon à suggérer un lien (cause, faute, entente, réfutation) que les sources n'établissent pas.
 - Vise **1 800 à 2 300 mots de narration** (≈ 150 mots/min → 12-15 min). Les titres, tags et indications de visuels ne comptent pas. Compte avec `python pipeline/narration.py episodes/<slug>/script.md` (c'est le même outil que le fact-check), et reporte ce chiffre dans l'en-tête.
 
 ## Format de `episodes/<slug>/script.md`

@@ -75,4 +75,4 @@ VERDICT : KO
 …
 ```
 
-Les corrections doivent être **applicables telles quelles** par le scénariste : extrait exact à remplacer et texte de remplacement sourcé, ou suppression. Si une source manque mais existe, donne l'URL pour que `sources.md` soit complété.
+Les corrections doivent être **applicables telles quelles** par le scénariste : extrait exact à remplacer et texte de remplacement sourcé, ou suppression. Vérifie chaque texte de remplacement comme une affirmation du script : il ne doit introduire aucun motif, chiffre ou périmètre absent du dossier. Si une source manque mais existe, donne l'URL pour que `sources.md` soit complété.
